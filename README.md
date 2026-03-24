@@ -10,8 +10,8 @@ A simple responsive landing page for a digital agency.
 - Fully Responsive (Mobile, Tablet, Desktop)
 - Clean Design
 
-### Preview:
-![Preview](readme-images/smak-screenshot.png)
+### Live Preview:
+[Click here to view the live site](https://smak-agency-mohammed-wagdan.netlify.app)
 
 ---
 
