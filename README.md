@@ -11,7 +11,7 @@ A simple responsive landing page for a digital agency.
 - Clean Design
 
 ### Preview:
-![Preview](https://raw.githubusercontent.com/MohammedWagdan/SMAK/main/readme-images/smak-screenshot.png)
+![Preview](readme-images/smak-screenshot.png)
 
 ---
 
